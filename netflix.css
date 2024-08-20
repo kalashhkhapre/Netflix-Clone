@@ -132,7 +132,7 @@ body{
     align-items: center;
     margin-bottom: 10px;
 }
-.inner-sec{
+.inner-sec2{
     display: flex;
     flex-direction: row;
     background-color: black ;
@@ -155,6 +155,7 @@ body{
 .content-text #text1{
     font-size: 60px;
     font-weight: 800;
+    text-align: left;
     margin-bottom: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }   
@@ -173,4 +174,83 @@ body{
     height: 250px;
     margin-left: 40px;
     margin-top: 70px;
+}
+.section3{
+    display: flex;
+    width: 100vw;
+    height: 70vh;
+    background-color: black;
+    margin-bottom: 10px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.inner-sec3{
+    display: flex;
+    position: relative;
+    background-color: black;
+    height: 70%;
+    width: 100%;
+    flex-direction: row;
+    margin-right: 15vw;
+    margin-left: 15vw;  
+    justify-content: center;  
+    align-items: center;
+}
+#mobile{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+#mobile img{
+    height: 400px;
+}
+.inner-sec3 #text{
+    position: relative;
+    color: white;
+    width: 40vw;
+}
+.inner-sec3 #text h2{
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.inner-sec3 #text h3{
+    font-weight: 450;
+    font-size:30px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#on-mobile{
+    color: white;
+    position:absolute;
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    height: 15vh;
+    width: 20vw;
+    border: 2px solid rgb(85, 84, 84);
+    border-radius: 20px;    
+    justify-content: center;
+    align-items: center;
+    margin-top: 33vh;
+    margin-left: 106px;
+}
+#on-mobile img{
+    position: relative;
+    height: 100px;
+}
+#on-mobile h4{
+    width: 70px;
+    margin-left: 15px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#on-mobile p{
+    width: 70px;
+    font-weight: 300;
+    margin-left: 15px;
+    color: rgb(0, 140, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#icon{
+    height: 100px;
+    width:120px;
 }
