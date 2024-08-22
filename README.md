@@ -25,8 +25,8 @@ To view this project locally:
    ```bash
    git clone https://github.com/kalashhkhapre/netflix-clone.git
 
-**Contributing****
-**Since this is a learning project, any contributions, suggestions, or improvements are welcome. Feel free to fork the repository and submit a pull request.**
+## Contributing
+Since this is a learning project, any contributions, suggestions, or improvements are welcome. Feel free to fork the repository and submit a pull request.
 
-**Acknowledgements:**
-**This project is inspired by Netflix and is meant purely for educational purposes.**
+## Acknowledgements:
+This project is inspired by Netflix and is meant purely for educational purposes.
