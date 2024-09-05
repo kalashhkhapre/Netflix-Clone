@@ -1,0 +1,1 @@
+let win = document.getElementById("WIN")
